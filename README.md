@@ -62,3 +62,4 @@ This project is licensed under the MIT License - see the (https://en.wikipedia.o
 ---
 
 Feel free to customize and expand upon this template based on additional features, acknowledgments, or any specific instructions relevant to your project.
+![Screenshot](scr.png)
